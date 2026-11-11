@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.bak
+*.autosave
+*.lock
+.DS_Store
+Thumbs.db
+desktop.ini
+__pycache__/
+*.pyc
